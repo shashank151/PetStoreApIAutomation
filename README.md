@@ -1,6 +1,6 @@
-# PetStoreApIAutomation
+# PetStoreApIAutomation -  Maven Project
 
-# API BDD test automation  framework - Restassured & Cucumber with Java
+# API BDD test automation framework - Restassured & Cucumber with Java
 
 Run tests within this solution
 1.Clone this repo
